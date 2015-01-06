@@ -2,3 +2,9 @@
 body{
 font-family: 'Ubuntu', verdana;
 }
+updatedarray.jumbotron p {
+margin-bottom: 15px;
+font-size: 21px;
+font-weight: 200;
+text-align: justify;
+}
