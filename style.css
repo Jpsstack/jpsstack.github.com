@@ -16,5 +16,15 @@ text-align: justify;
 font-size: 14px !important;
 color: #337ab7;
 font-style: italic;
-margin-left: 190px;
+margin-left: 200px;
+}
+.desc{
+position: absolute;
+top: 250px;
+width: 415px;
+text-align: justify;
+right: 332px;
+font-size: 14px;
+line-height: 27.5px;
+line-height: 27.5px;
 }
