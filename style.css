@@ -22,9 +22,8 @@ margin-left: 200px;
 position: absolute;
 top: 250px;
 width: 415px;
-text-align: justify;
+text-align: justify !important;
 right: 332px;
-font-size: 14px;
-line-height: 27.5px;
+font-size: 14px !important;; 
 line-height: 27.5px;
 }
