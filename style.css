@@ -13,7 +13,7 @@ text-align: justify;
   padding:5px;
 }
 .head-sub{
-font-size: 14px;
+font-size: 14px !important;
 color: #337ab7;
 font-style: italic;
 margin-left: 190px;
