@@ -14,8 +14,7 @@ text-align: justify;
 }
 .head-sub{
 font-size: 14px !important;
-color: #337ab7;
-font-style: italic;
+color: #337ab7; 
 margin-left: 200px;
 }
 .desc{
