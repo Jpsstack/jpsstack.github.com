@@ -12,3 +12,9 @@ text-align: justify;
   float:left;
   padding:5px;
 }
+.head-sub{
+font-size: 14px;
+color: #337ab7;
+font-style: italic;
+margin-left: 190px;
+}
