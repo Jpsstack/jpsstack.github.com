@@ -26,3 +26,6 @@ right: 332px;
 font-size: 14px !important;; 
 line-height: 27.5px;
 }
+.col-lg-6{
+	width : 100% !important;
+}
