@@ -42,3 +42,6 @@ line-height: 27.5px;
 .cont-p{
 color: #337ab7;
 }
+.col-xs-3{
+	width:0 !important;
+}
